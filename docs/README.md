@@ -1,3 +1,5 @@
+[![Python application](https://github.com/bencsbalazs/TASK-Zeiss/actions/workflows/python-app.yml/badge.svg)](https://github.com/bencsbalazs/TASK-Zeiss/actions/workflows/python-app.yml)
+
 # HeavyLifter Manual
 
 ## Introduction
